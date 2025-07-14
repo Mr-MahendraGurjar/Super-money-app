@@ -20,7 +20,6 @@ Before running this application, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/Mr-MahendraGurjar/Super-money-app.git
-cd send_money_app
 ```
 
 ### 2. Install Dependencies
